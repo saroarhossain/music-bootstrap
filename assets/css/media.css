@@ -1,0 +1,202 @@
+@media(max-width: 1599px){
+
+}
+@media(max-width: 1499px){
+  
+
+@media(max-width: 1399px){
+ 
+
+
+@media(max-width: 1199px){
+h1 {
+    line-height: 1.6;
+    font-size: 45px;
+    } 
+
+ .headphone-section .heading {
+    padding-right: 20px;
+    padding-left: 20px;
+    }
+    
+.headphone-section .heading p {
+    padding-left: 0;
+    padding-top: 15px;
+    padding-bottom: 25px;
+    padding-right: 10px !important;
+    }
+.heading p {
+    padding: 30px 55px 40px 55px;
+    line-height: 1.8;
+    }
+.feature1 {
+    padding: 0px 0;
+    }
+.feature-item h5 {
+    font-size: 20px;
+    padding-top: 12px;
+    padding-bottom: 5px;}   
+ .feature-item img {
+    width: 32px;
+    height: 30px;
+    } 
+.graphic-section .feature-item {
+    padding-top: 0px;
+    }    
+.graphic-image img {
+    width: 650px;
+    }       
+}
+
+
+   
+
+@media(max-width: 991px){
+.heading p {
+    padding: 30px 45px 40px 45px;
+    line-height: 1.8;
+    }
+  h1 {
+    line-height: 1.4;
+    font-size: 42px;
+    }  
+    .headphone-section .heading {
+    padding-right: 12px;
+    padding-left: 12px;
+}
+ .headphone-section .heading p {
+    padding-right: 10px !important;
+    padding-top: 12px;
+    padding-bottom: 20px;
+    } 
+.feature1 {
+    background-image: none;
+    } 
+ .feature-section h1 {
+    padding-bottom: 60px;
+    }   
+.graphic-image img {
+    width: 580px;
+    }  
+.graphic-image {
+    display: none;}    
+.row.h-100 {
+    height: auto !important;
+}    
+.graphic-section .feature-item {
+    padding-bottom: 50px;
+    }  
+section.slide-section {
+    padding: 50px;}
+.carousel {
+    padding-top: 85px;
+    padding-bottom: 105px;
+    }
+ .carousel-item ul {
+    padding-top: 40px;}   
+ .carousel-item p {
+    font-size: 20px;}             
+}
+
+
+
+
+@media(max-width: 767px){
+.banner1 {
+    padding: 80px 0;
+}
+h1 {
+    font-size: 38px;
+    }
+.heading p {
+    padding: 20px 40px 35px 40px;
+    line-height: 1.8;
+    font-size: 16px;
+    }   
+.gallary-section {
+    background-size: auto;
+    background-image: none;
+    padding: 100px 0;
+}
+    
+    
+.middle-post {
+    padding-bottom: 50px;
+    padding-top: 50px;
+    }
+.headphone-section .heading {
+    text-align: center;
+    padding: 40px 20px;
+    }   
+.headphone-section .heading  p{
+    text-align: justify;
+    padding-right: 15px !important;
+    padding-top: 20px;
+    padding-bottom: 35px;
+    padding-left: 35px;
+}
+.headphone-section .heading  a{
+}  
+.feature-section h1 {
+    padding-bottom: 50px;
+    }   
+.carousel-item p {
+    font-size: 18px;
+    }
+ .graphic-section .feature-item {
+    padding-bottom: 80px;}
+ .discover-section .heading2 h1 {
+    font-size: 30px;
+}   
+.heading2 p {
+    padding: 15px 12px;
+    }  
+.discover-section a {
+    padding: 8px 18px;
+    } 
+           
+ }
+
+
+@media(max-width: 575px){
+.heading p {
+    padding: 20px 25px 35px 25px;
+    }
+.heading h1{
+     font-size: 36px;
+     } 
+h1 {
+    font-size: 42px;} 
+.feature-section h1 {
+    padding-right: 20px;
+    padding-left: 20px;
+    }  
+.feature1 .row {
+    justify-content: center !important;
+    text-align: center;
+    } 
+ .graphic-section .row.h-100 {
+ justify-content:center;
+ text-align:center;
+    }    
+ .carousel {
+    padding-top: 30px;
+    padding-bottom: 80px;
+    }   
+.discover-section .heading2 h1 {
+    padding: 0px 25px;
+    }  
+ .navbar-nav {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: row;
+    flex-direction: column;
+    text-align: center;
+    }     
+                
+}
+
+
+
+
+
